@@ -38,6 +38,7 @@ public class DaoGeneric<E> {
 	}
 
 	public E buscar(Long id, Class<E> entidade) {
+		@SuppressWarnings(UNCHECKED)
 		E e = (E) entityManager.find(entidade, id);
 
 		return e;

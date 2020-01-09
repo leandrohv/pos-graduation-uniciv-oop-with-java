@@ -8,6 +8,7 @@
 	<persistence-unit name="pos-java-maven-hibernate">
 
 		<class>model.UsuarioPessoa</class>
+		<class>model.TelefoneUser</class>
 
 		<properties>
 			<property name="hibernate.connection.driver_class"
