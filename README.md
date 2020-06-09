@@ -2,13 +2,11 @@
 
 > A pós-graduação UNICIV prepara profissionais de elevado padrão que pretendam atuar em cargos-chaves na programação em Tecnologias Java, nas grandes empresas brasileiras e internacionais.
 
-<h4 align="center">
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/leandrohv/post-graduation-uniciv-oop-with-java/master/LICENSE.md)
 
 <!-- De um a dois parágrafos sobre o que é seu projeto e o que ele faz. -->
-
-<img src="./assets/logoPostGraduateUniciv.png" /><br>
-
+<h4 align="center">
+  <img src="./assets/logoPostGraduateUniciv.png" /><br>
 </h4>
 
 ## Disciplinas
