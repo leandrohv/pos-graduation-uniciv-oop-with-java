@@ -6,7 +6,7 @@
 
 <!-- De um a dois parágrafos sobre o que é seu projeto e o que ele faz. -->
 
-![](assets/logoPostGraduateUniciv.png)
+<img src="./assets/logoPostGraduateUniciv.png" /><br>
 
 ## Disciplinas
 
