@@ -5,9 +5,9 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/leandrohv/post-graduation-uniciv-oop-with-java/master/LICENSE.md)
 
 <!-- De um a dois parágrafos sobre o que é seu projeto e o que ele faz. -->
-
-<img src="./assets/logoPostGraduateUniciv.png" /><br>
-
+<h4 align="center">
+  <img src="./assets/logoPostGraduateUniciv.png" /><br>
+</h4>
 ## Disciplinas
 
 - [Metodologias Ágeis – SCRUM / Kanban / XP / Lean – 30 h](#)
