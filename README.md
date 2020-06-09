@@ -10,17 +10,17 @@
 
 ## Disciplinas
 
-- [Metodologias Ágeis – SCRUM / Kanban / XP / Lean – 30 h](https://github.com/yourname/yourproject/fork)
-- [Análise Orientada a Objetos – 30 h](https://github.com/yourname/yourproject/fork)
-- [Persistência em Java (JDBC / JPA com Hibernate / Spring Data) – 30 h](https://github.com/yourname/yourproject/fork)
-- [Programação para Web usando Java (JSF / PrimeFaces / Hibernate) – 30 h](https://github.com/yourname/yourproject/fork)
-- [Gerência de Configuração, Controle de Versão e Mudanças – 30 h](https://github.com/yourname/yourproject/fork)
-- [Padrões de Projeto (Design Patterns) – 30 h](https://github.com/yourname/yourproject/fork)
-- [Qualidade do Código Fonte (Clean Code) – 30 h](https://github.com/yourname/yourproject/fork)
-- [DevOps e Testes Automáticos – 30 h](https://github.com/yourname/yourproject/fork)
-- [Tecnologia WebServices e RESTful – 30 h](https://github.com/yourname/yourproject/fork)
-- [Containers: Docker e Kubernetes – 30 h](https://github.com/yourname/yourproject/fork)
-- [Abordagem de Tecnologias Webmobile – 30 h](https://github.com/yourname/yourproject/fork)
-- [Business Intelligence – 30 h](https://github.com/yourname/yourproject/fork)
+- [Metodologias Ágeis – SCRUM / Kanban / XP / Lean – 30 h](#)
+- [Análise Orientada a Objetos – 30 h](#)
+- [Persistência em Java (JDBC / JPA com Hibernate / Spring Data) – 30 h](#)
+- [Programação para Web usando Java (JSF / PrimeFaces / Hibernate) – 30 h](#)
+- [Gerência de Configuração, Controle de Versão e Mudanças – 30 h](#)
+- [Padrões de Projeto (Design Patterns) – 30 h](#)
+- [Qualidade do Código Fonte (Clean Code) – 30 h](#)
+- [DevOps e Testes Automáticos – 30 h](#)
+- [Tecnologia WebServices e RESTful – 30 h](#)
+- [Containers: Docker e Kubernetes – 30 h](#)
+- [Abordagem de Tecnologias Webmobile – 30 h](#)
+- [Business Intelligence – 30 h](#)
 
 TOTAL DA CARGA HORÁRIA – 360 h
