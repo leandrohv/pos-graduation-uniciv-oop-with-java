@@ -13,7 +13,7 @@
 
 - [Metodologias Ágeis – SCRUM / Kanban / XP / Lean – 30 h](#)
 - [Análise Orientada a Objetos – 30 h](#)
-- [Persistência em Java (JDBC / JPA com Hibernate / Spring Data) – 30 h](#)
+- [Persistência em Java (JDBC / JPA com Hibernate / Spring Data) – 30 h](https://github.com/leandrohv/post-graduation-uniciv-oop-with-java/tree/master/03PersistenceInJava)
 - [Programação para Web usando Java (JSF / PrimeFaces / Hibernate) – 30 h](#)
 - [Gerência de Configuração, Controle de Versão e Mudanças – 30 h](#)
 - [Padrões de Projeto (Design Patterns) – 30 h](#)
